@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productname": "Apple",
+      "productcategory": "fruits",
+      "date": "2022-02-14T18:30:00.000Z",
+      "freshness": "New",
+      "price": 10,
+      "comment": "heyy apple",
+      "id": 1
+    },
+    {
+      "productname": "samsung",
+      "productcategory": "Electronics",
+      "date": "2022-02-15T18:30:00.000Z",
+      "freshness": "New",
+      "price": 20000,
+      "comment": "Hey that was a good one!!",
+      "id": 4
+    },
+    {
+      "productname": "Tomato",
+      "productcategory": "vegetables",
+      "date": "2022-02-02T18:30:00.000Z",
+      "freshness": "New",
+      "price": 50,
+      "comment": "Tomatoes are fresh!!",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
